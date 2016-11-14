@@ -10,10 +10,13 @@ Emulates a cash dispensing application for use in an ATM or similar device.  The
 ## Instructions
 
 * To build the application
+
 gradlew build
 * To build and run the application
+
 gradlew run
 * To run unit test
+
 gradlew test
 
 ## Detailed requirements
