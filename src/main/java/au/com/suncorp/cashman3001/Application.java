@@ -122,7 +122,6 @@ public class Application {
             }
             else {
                 System.out.println("Invalid input");
-                printStandPrompt();
             }
         }
     }
